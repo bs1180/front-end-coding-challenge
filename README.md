@@ -50,4 +50,6 @@ The following directories are already set up
 * **/html** — Contains a basic HTML file that may serve as a starting point to build your page. You can access this file pointing your browser to http://localhost:3000/
 The /routes folder contains the routes for the four endpoints as well as the object that serves as storage —for simplicity, the server doesn't use a database, but keeps the values in memory.
 
+When you are finished, send us a Dropbox/Skydrive/whatever link to your zipped  code to ana.henneberke@justgiving.com but please do not send attached zip files via email.
+
 Good luck!
